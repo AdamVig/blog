@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Adam Vigneaux</title>
-    <link>http://localhost:1313/post/</link>
+    <link>http://blog.adamvig.com/post/</link>
     <description>Recent content in Posts on Adam Vigneaux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 29 Aug 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.adamvig.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>On Iterating</title>
-      <link>http://localhost:1313/post/oniterating/</link>
+      <link>http://blog.adamvig.com/post/oniterating/</link>
       <pubDate>Sat, 29 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/oniterating/</guid>
+      <guid>http://blog.adamvig.com/post/oniterating/</guid>
       <description>&lt;p&gt;To iterate is to repeat with the intent of reaching a desired goal.&lt;/p&gt;
 
 &lt;p&gt;When you know what you want to achieve but you have to create several drafts
@@ -40,10 +40,10 @@ idea succeed. If it is not a good idea, you will see it and change the idea.&lt;
     
     <item>
       <title>Push Vs. Pull</title>
-      <link>http://localhost:1313/post/pushvspull/</link>
+      <link>http://blog.adamvig.com/post/pushvspull/</link>
       <pubDate>Sat, 29 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/pushvspull/</guid>
+      <guid>http://blog.adamvig.com/post/pushvspull/</guid>
       <description>&lt;p&gt;Consuming information is our new daily activity. It is so easy to do that it
 has become a pastime: I read blog posts in waiting rooms, I check Twitter on
 the toilet. These are both examples of a “pull.” What I mean is that I, the
