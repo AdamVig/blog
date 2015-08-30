@@ -9,6 +9,33 @@
     <atom:link href="http://blog.adamvig.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Push Vs. Pull</title>
+      <link>http://blog.adamvig.com/post/pushvspull/</link>
+      <pubDate>Sat, 29 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.adamvig.com/post/pushvspull/</guid>
+      <description>&lt;p&gt;Consuming information is our new daily activity. It is so easy to do that it
+has become a pastime: I read blog posts in waiting rooms, I check Twitter on
+the toilet. These are both examples of a “pull.” What I mean is that I, the
+user, am voluntarily asking the content provider (a blog, Twitter) for
+information. The complement (or opposite, depending on how you look at it) to
+this concept of “pull” is (you guessed it) “push.” A push notification is named
+as such because the content provider is pushing information to you whether you
+like it or not. I make this caveat because in some cases, you may like it: a
+text message, a Facebook friend request, or the results of a sports game. But
+in other cases, “push” becomes evil: a never-ending group text message, a
+Facebook friend asking you to play games with them, or a constant stream of
+updates from a sports game. To curb my addiction to information consumption
+(specifically from social media with its addiction-fostering tendencies), I
+have intentionally limited my “push” activities and turned them into “pull.”
+This philosophy has completely changed my phone usage. Not only is my phone now
+significantly quieter, but it also has become a way to quickly get up to date on
+ any information I missed, then ignore new updates until the next time I am
+ ready to “pull.”&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>On Iterating</title>
       <link>http://blog.adamvig.com/post/oniterating/</link>
       <pubDate>Sat, 29 Aug 2015 00:00:00 +0000</pubDate>
@@ -35,33 +62,6 @@ idea apart. If it is a good idea, this process has the byproduct of making your
 idea succeed. If it is not a good idea, you will see it and change the idea.&lt;/p&gt;
 
 &lt;p&gt;To iterate is to prove yourself a little bit at a time.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Push Vs. Pull</title>
-      <link>http://blog.adamvig.com/post/pushvspull/</link>
-      <pubDate>Sat, 29 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.adamvig.com/post/pushvspull/</guid>
-      <description>&lt;p&gt;Consuming information is our new daily activity. It is so easy to do that it
-has become a pastime: I read blog posts in waiting rooms, I check Twitter on
-the toilet. These are both examples of a “pull.” What I mean is that I, the
-user, am voluntarily asking the content provider (a blog, Twitter) for
-information. The complement (or opposite, depending on how you look at it) to
-this concept of “pull” is (you guessed it) “push.” A push notification is named
-as such because the content provider is pushing information to you whether you
-like it or not. I make this caveat because in some cases, you may like it: a
-text message, a Facebook friend request, or the results of a sports game. But
-in other cases, “push” becomes evil: a never-ending group text message, a
-Facebook friend asking you to play games with them, or a constant stream of
-updates from a sports game. To curb my addiction to information consumption
-(specifically from social media with its addiction-fostering tendencies), I
-have intentionally limited my “push” activities and turned them into “pull.”
-This philosophy has completely changed my phone usage. Not only is my phone now
-significantly quieter, but it also has become a way to quickly get up to date on
- any information I missed, then ignore new updates until the next time I am
- ready to “pull.”&lt;/p&gt;
 </description>
     </item>
     
