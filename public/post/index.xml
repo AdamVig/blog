@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Adam Vigneaux</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Adam Vigneaux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 29 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>On Iterating</title>
+      <link>http://localhost:1313/post/oniterating/</link>
+      <pubDate>Sat, 29 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/oniterating/</guid>
+      <description>&lt;p&gt;To iterate is to repeat with the intent of reaching a desired goal.&lt;/p&gt;
+
+&lt;p&gt;When you know what you want to achieve but you have to create several drafts
+along the way, you are iterating.&lt;/p&gt;
+
+&lt;p&gt;Iterating can be a process of proving yourself.&lt;/p&gt;
+
+&lt;p&gt;In situations where money is involved, and the big picture requires a large
+purchase, the big picture can be attained through a process of several small
+purchases that prove the validity of the big picture.&lt;/p&gt;
+
+&lt;p&gt;In situations where the goal is a dramatic change in the way something is done,
+the change can be achieved through a process of proving that the change will be
+better. Apply the process in small pieces.&lt;/p&gt;
+
+&lt;p&gt;Iterating can help you see that your ideas are misguided. Instead of going all
+in with an unproven idea, the process of iteration forces you to pick your own
+idea apart. If it is a good idea, this process has the byproduct of making your
+idea succeed. If it is not a good idea, you will see it and change the idea.&lt;/p&gt;
+
+&lt;p&gt;To iterate is to prove yourself a little bit at a time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Push Vs. Pull</title>
+      <link>http://localhost:1313/post/pushvspull/</link>
+      <pubDate>Sat, 29 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/pushvspull/</guid>
+      <description>&lt;p&gt;Consuming information is our new daily activity. It is so easy to do that it
+has become a pastime: I read blog posts in waiting rooms, I check Twitter on
+the toilet. These are both examples of a “pull.” What I mean is that I, the
+user, am voluntarily asking the content provider (a blog, Twitter) for
+information. The complement (or opposite, depending on how you look at it) to
+this concept of “pull” is (you guessed it) “push.” A push notification is named
+as such because the content provider is pushing information to you whether you
+like it or not. I make this caveat because in some cases, you may like it: a
+text message, a Facebook friend request, or the results of a sports game. But
+in other cases, “push” becomes evil: a never-ending group text message, a
+Facebook friend asking you to play games with them, or a constant stream of
+updates from a sports game. To curb my addiction to information consumption
+(specifically from social media with its addiction-fostering tendencies), I
+have intentionally limited my “push” activities and turned them into “pull.”
+This philosophy has completely changed my phone usage. Not only is my phone now
+significantly quieter, but it also has become a way to quickly get up to date on
+ any information I missed, then ignore new updates until the next time I am
+ ready to “pull.”&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

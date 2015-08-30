@@ -1,0 +1,12 @@
+{
+  "baseurl": "http://blog.adamvig.com/",
+  "title": "Adam Vigneaux",
+  "params": {
+    "Subtitle": "Blog",
+    "GithubID": "adamvig",
+    "TwitterID": "meetadamjohn"
+  },
+  "disablesitemap": true,
+  "paginate": 100,
+  "canonifyurls": true
+}
