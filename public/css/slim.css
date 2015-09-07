@@ -220,8 +220,20 @@ header {
 
 @media (max-width: 800px) {
   .container {
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  h2.post-title,
+  h2.post-title a {
+    font-size: 1.25rem;
+    line-height: 2rem;
+    margin-bottom: 1.5rem;
+  }
+  .post-title:before,
+  .post-title:after,
+  .post-title a:before,
+  .post-title a:after {
+    display: none !important;
   }
 }
 
@@ -269,30 +281,6 @@ header {
   margin-left: -14px;
   -webkit-transition: all 0.3s;
           transition: all 0.3s; }
-  .post-title a:after, .post-title a:before {
-    content: '';
-    position: absolute;
-    border: 3px solid transparent;
-    top: 13px;
-    -webkit-transition: all 0.3s;
-            transition: all 0.3s; }
-  .post-title a:before {
-    left: -23px;
-    -webkit-transform: rotate(45deg);
-        -ms-transform: rotate(45deg);
-            transform: rotate(45deg); }
-  .post-title a:after {
-    -webkit-transform: rotate(225deg);
-        -ms-transform: rotate(225deg);
-            transform: rotate(225deg);
-    right: -23px; }
-  .post-title a:hover:before, .post-title a:hover:after {
-    border-top-color: #ccc;
-    border-right-color: #ccc; }
-  .post-title a:hover:before {
-    left: -3px; }
-  .post-title a:hover:after {
-    right: -3px; }
 
 .post-date {
   color: #ccc;
