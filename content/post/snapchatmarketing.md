@@ -8,7 +8,15 @@ an undeniably huge reach.
 
 ## Use Geofilters
 Snapchat Geofilters are graphics that users can overlay on Snapchat photos and
-videos when they are in certain locations. It is easy to submit your own!
+videos when they are in certain locations. Geofilters are a great way to
+create a brand for a specific location such as a city, a neighborhood, or a
+university.
+
+Snapchat's terms and conditions do not allow the use of logos or trademarks in
+Geofilters. Still, your Geofilter can use colors and text to give your brand a
+fun personality and to associate it with a specific geographical area.
+
+It is easy to submit your own!
 
 1. Go to the [Snapchat Geofilters page](https://www.snapchat.com/geofilters/)
 and click the button to get started.
