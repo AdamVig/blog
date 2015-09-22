@@ -38,9 +38,8 @@ up, then the lead vocalist, then your own instrument and/or vocal. Everything
 else is fluff.
 
 Take advantage of panning. Pan the vocals, drums, or anything else to the
-hard left and right to clear out some space in your in-ear mix. This sounds
-abstract, but I have heard musicians say that panning is the key to bringing
-your in-ear mix to the next level.
+hard left and right to clear out some space in your in-ear mix. This may sound
+abstract, but panning is the key to bringing your in-ear mix to the next level.
 
 Use the ambient microphone. The ambient microphone is intended
 to give the musician an idea of what the house mix sounds like and what the
