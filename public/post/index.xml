@@ -5,8 +5,30 @@
     <link>http://blog.adamvig.com/post/</link>
     <description>Recent content in Posts on Adam Vigneaux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 21 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://blog.adamvig.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Favorite Mac Apps</title>
+      <link>http://blog.adamvig.com/post/macapps/</link>
+      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.adamvig.com/post/macapps/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://semaja2.net/projects/insomniaxinfo/&#34;&gt;InsomniaX&lt;/a&gt;: a feature-rich
+menubar app that allows you to suppress idle sleep and lid sleep on a laptop.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://justgetflux.com/&#34;&gt;f.lux&lt;/a&gt;: a menubar app that automatically decreases
+your screen temperature at night to make the screen easier on your eyes and your sleep cycle.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://displaymenu.milchimgemuesefach.de/&#34;&gt;Display Menu&lt;/a&gt;: free with optional $2 pro version upgrade; allows you to adjust display resolution easily, useful to get more space on Retina Macbook displays.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.monityapp.com/&#34;&gt;Monity&lt;/a&gt;: $5, tasteful system monitoring app that displays statistics and info in the Notification Center.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.goofyapp.com/&#34;&gt;Goofy&lt;/a&gt;: Facebook messenger app that is essentially a wrapper for Messenger.com but provides native OS X notifications for new messages.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.spectacleapp.com/&#34;&gt;Spectacle&lt;/a&gt;: window manager accessible through menubar or system-wide keyboard shortcuts, useful for quickly making windows fill the screen or go split screen.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.derlien.com/&#34;&gt;Disk Inventory X&lt;/a&gt;: disk usage analysis tool to help you visualize what is taking up the most hard drive space&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://unarchiver.c3.cx/unarchiver&#34;&gt;The Unarchiver&lt;/a&gt;: capable utility that can extract a wide variety of archive formats&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.iterm2.com/&#34;&gt;iTerm 2&lt;/a&gt;: customizable replacement for Terminal.app&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>It Starts With The In-Ear Mix</title>
