@@ -5,8 +5,7 @@ title = "My Favorite Mac Apps"
 
 - [InsomniaX](http://semaja2.net/projects/insomniaxinfo/): a feature-rich
 menubar app that allows you to suppress idle sleep and lid sleep on a laptop.
-- [f.lux](https://justgetflux.com/): a menubar app that automatically decreases
-your screen temperature at night to make the screen easier on your eyes and your sleep cycle.
+- [Skim](http://www.macupdate.com/app/mac/24590/skim): a fast and efficient PDF reader with annotation tools.
 - [Display Menu](http://displaymenu.milchimgemuesefach.de/): free with optional $2 pro version upgrade; allows you to adjust display resolution easily, useful to get more space on Retina Macbook displays.
 - [Monity](http://www.monityapp.com/): $5, tasteful system monitoring app that displays statistics and info in the Notification Center.
 - [Goofy](http://www.goofyapp.com/): Facebook messenger app that is essentially a wrapper for Messenger.com but provides native OS X notifications for new messages.
