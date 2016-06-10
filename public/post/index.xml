@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Adam Vigneaux</title>
-    <link>http://blog.adamvig.com/post/</link>
+    <link>https://blog.adamvig.com/post/</link>
     <description>Recent content in Posts on Adam Vigneaux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.adamvig.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.adamvig.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Skill, Not Talent</title>
-      <link>http://blog.adamvig.com/post/skillnottalent/</link>
+      <link>https://blog.adamvig.com/post/skillnottalent/</link>
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.adamvig.com/post/skillnottalent/</guid>
+      <guid>https://blog.adamvig.com/post/skillnottalent/</guid>
       <description>&lt;p&gt;Talent is natural aptitude.&lt;/p&gt;
 
 &lt;p&gt;Skill is hard-earned knowledge and experience.&lt;/p&gt;
@@ -31,10 +31,10 @@ call them &amp;ldquo;talented&amp;rdquo;.&lt;/p&gt;
     
     <item>
       <title>My Favorite Mac Apps</title>
-      <link>http://blog.adamvig.com/post/macapps/</link>
+      <link>https://blog.adamvig.com/post/macapps/</link>
       <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.adamvig.com/post/macapps/</guid>
+      <guid>https://blog.adamvig.com/post/macapps/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://semaja2.net/projects/insomniaxinfo/&#34;&gt;InsomniaX&lt;/a&gt;: a feature-rich
 menubar app that allows you to suppress idle sleep and lid sleep on a laptop.&lt;/li&gt;
@@ -52,10 +52,10 @@ menubar app that allows you to suppress idle sleep and lid sleep on a laptop.&lt
     
     <item>
       <title>It Starts With The In-Ear Mix</title>
-      <link>http://blog.adamvig.com/post/inearmix/</link>
+      <link>https://blog.adamvig.com/post/inearmix/</link>
       <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.adamvig.com/post/inearmix/</guid>
+      <guid>https://blog.adamvig.com/post/inearmix/</guid>
       <description>
 
 &lt;p&gt;The key to a good musical performance is confidence. Confidence comes from
@@ -106,10 +106,10 @@ audience is doing.&lt;/p&gt;
     
     <item>
       <title>Snapchat Marketing is Easy!</title>
-      <link>http://blog.adamvig.com/post/snapchatmarketing/</link>
+      <link>https://blog.adamvig.com/post/snapchatmarketing/</link>
       <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.adamvig.com/post/snapchatmarketing/</guid>
+      <guid>https://blog.adamvig.com/post/snapchatmarketing/</guid>
       <description>
 
 &lt;p&gt;When it comes to social media marketing, Snapchat has a limited feature set but
@@ -228,10 +228,10 @@ a whole.&lt;/p&gt;
     
     <item>
       <title>Cross-Posting is Lazy Social Media Strategy</title>
-      <link>http://blog.adamvig.com/post/lazycrossposting/</link>
+      <link>https://blog.adamvig.com/post/lazycrossposting/</link>
       <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.adamvig.com/post/lazycrossposting/</guid>
+      <guid>https://blog.adamvig.com/post/lazycrossposting/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;cross-posting (n): automatically posting content from one social network to
 one or more other social networks.&lt;/p&gt;
@@ -262,11 +262,11 @@ people expect different types of content on each social network.&lt;/p&gt;
     
     <item>
       <title>The Cell Phone Upgrade Strategy</title>
-      <link>http://blog.adamvig.com/post/cellphoneupgrade/</link>
+      <link>https://blog.adamvig.com/post/cellphoneupgrade/</link>
       <pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.adamvig.com/post/cellphoneupgrade/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://blog.adamvig.com/img/post/peoplewhobuythings.gif&#34; alt=&#34;People Who Buy Things Are Suckers&#34; /&gt;&lt;/p&gt;
+      <guid>https://blog.adamvig.com/post/cellphoneupgrade/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://blog.adamvig.com/img/post/peoplewhobuythings.gif&#34; alt=&#34;People Who Buy Things Are Suckers&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Never buy a cell phone new at full price.&lt;/strong&gt;&lt;/p&gt;
 
@@ -305,10 +305,10 @@ you can send it back for a full refund.&lt;/p&gt;
     
     <item>
       <title>On Iterating</title>
-      <link>http://blog.adamvig.com/post/oniterating/</link>
+      <link>https://blog.adamvig.com/post/oniterating/</link>
       <pubDate>Sat, 29 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.adamvig.com/post/oniterating/</guid>
+      <guid>https://blog.adamvig.com/post/oniterating/</guid>
       <description>&lt;p&gt;To iterate is to repeat with the intent of reaching a desired goal.&lt;/p&gt;
 
 &lt;p&gt;When you know what you want to achieve but you have to create several drafts
@@ -335,10 +335,10 @@ idea succeed. If it is not a good idea, you will see it and change the idea.&lt;
     
     <item>
       <title>Pull, Not Push</title>
-      <link>http://blog.adamvig.com/post/pushvspull/</link>
+      <link>https://blog.adamvig.com/post/pushvspull/</link>
       <pubDate>Sat, 29 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.adamvig.com/post/pushvspull/</guid>
+      <guid>https://blog.adamvig.com/post/pushvspull/</guid>
       <description>&lt;p&gt;Unlock your phone, open all of your social apps, and turn off push
 notifications. Only enable push notifications for apps that need instant
 responses, such as messages and email.&lt;/p&gt;
