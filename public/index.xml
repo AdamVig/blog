@@ -5,8 +5,136 @@
     <link>https://blog.adamvig.com/</link>
     <description>Recent content on Adam Vigneaux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Aug 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.adamvig.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Input Lists and Stage Diagrams</title>
+      <link>https://blog.adamvig.com/post/inputliststagediagram/</link>
+      <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.adamvig.com/post/inputliststagediagram/</guid>
+      <description>&lt;p&gt;The most important communication that happens ahead of a musical event is in the form of a technical rider.&lt;/p&gt;
+
+&lt;p&gt;The technical rider includes specifications for sound, lighting, video, and backline equipment. The key parts of the rider are the input list, which describes all of the audio inputs the band will need, and the stage diagram, which shows the layout of the instruments and performers on stage.&lt;/p&gt;
+
+&lt;p&gt;An input list must contain three pieces of information for each input:&lt;br /&gt;
+1. channel number&lt;br /&gt;
+2. instrument name&lt;br /&gt;
+3. microphone/direct box type&lt;/p&gt;
+
+&lt;p&gt;If microphone or direct box type is unknown, leave it blank. This is an example input list:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Channel&lt;/th&gt;
+&lt;th&gt;Instrument&lt;/th&gt;
+&lt;th&gt;Input&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Lead Vocal&lt;/td&gt;
+&lt;td&gt;SM 58&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Bkg Vocal&lt;/td&gt;
+&lt;td&gt;SM 58&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;Electric Guitar&lt;/td&gt;
+&lt;td&gt;e609 (isolation)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Keyboard Left&lt;/td&gt;
+&lt;td&gt;DI&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Keyboard Right&lt;/td&gt;
+&lt;td&gt;DI&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;Bass Amp&lt;/td&gt;
+&lt;td&gt;BETA 52a&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;Kick&lt;/td&gt;
+&lt;td&gt;Audix D6&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;Snare&lt;/td&gt;
+&lt;td&gt;SM 57&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;Drum Side&lt;/td&gt;
+&lt;td&gt;KSM 32&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;Drum Top&lt;/td&gt;
+&lt;td&gt;KSM 32&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;11&lt;/td&gt;
+&lt;td&gt;Click&lt;/td&gt;
+&lt;td&gt;DI&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;Tracks Left&lt;/td&gt;
+&lt;td&gt;DI&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;Tracks Right&lt;/td&gt;
+&lt;td&gt;DI&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;A stage diagram must at least contain the placement of all musicians and instruments. It can be made more helpful by adding placement of microphones, direct boxes, and guitar stands; but most of that information can be extrapolated from the arrangement of the band.&lt;/p&gt;
+
+&lt;p&gt;Create a more complex stage diagram for situations where the tech should not have any creative input. Create a barebones stage diagram for situations where the tech is experienced and should provide creative input.&lt;/p&gt;
+
+&lt;p&gt;This is a complex example of a stage diagram:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://blog.adamvig.com/img/post/example-complex-stage-diagram.png&#34; alt=&#34;Example Complex Stage Diagram&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The above example includes detailed placement information for everything including Aviom personal mixers. This type of stage diagram is useful when the band works closely with the technical team; it can help turn setup into a simple mechanical process by getting all of the decision-making out of the way in advance.&lt;/p&gt;
+
+&lt;p&gt;This is a simpler example of a stage diagram:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://blog.adamvig.com/img/post/example-simple-stage-diagram.png&#34; alt=&#34;Example Simple Stage Diagram&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When creating a stage diagram, it is helpful to keep the following guidelines in mind:&lt;br /&gt;
+- arrange vocalists in order from left to right&lt;br /&gt;
+- maintain a line of sight between drums, bass, and other rhythm instruments&lt;br /&gt;
+- spread the band out across all available stage space&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Skill, Not Talent</title>
@@ -65,7 +193,7 @@ comfort. Comfort means the musician can clearly hear himself or herself.&lt;/p&g
 
 &lt;p&gt;The in-ear mix has a few parts:&lt;/p&gt;
 
-&lt;h2 id=&#34;1-the-headphones:ed4f67177b1f00bf56b6075a6581d796&#34;&gt;1) The Headphones&lt;/h2&gt;
+&lt;h2 id=&#34;1-the-headphones&#34;&gt;1) The Headphones&lt;/h2&gt;
 
 &lt;p&gt;Buy &lt;a href=&#34;http://www.shure.com/americas/products/earphones/se-earphones/se215-sound-isolating-earphones&#34;&gt;Shure SE215 earbuds&lt;/a&gt;.
 $100 is a small amount to spend on a crucial part of
@@ -88,7 +216,7 @@ in-ear mix.&lt;/p&gt;
 
 &lt;p&gt;Read my guide on wearing the Shure SE215s &lt;a href=&#34;https://docs.google.com/document/d/1b4MDASpO0i5x4Lvz0Hg9bVW1p-gWygIKmWBJi3Tqkyc/edit?usp=sharing&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;2-the-mix:ed4f67177b1f00bf56b6075a6581d796&#34;&gt;2) The Mix&lt;/h2&gt;
+&lt;h2 id=&#34;2-the-mix&#34;&gt;2) The Mix&lt;/h2&gt;
 
 &lt;p&gt;Do not turn every channel up. Turn the click track or rhythm-keeping instrument
 up, then the lead vocalist, then your own instrument and/or vocal. Everything
@@ -115,7 +243,7 @@ audience is doing.&lt;/p&gt;
 &lt;p&gt;When it comes to social media marketing, Snapchat has a limited feature set but
 an undeniably huge reach.&lt;/p&gt;
 
-&lt;h2 id=&#34;use-geofilters:dfd6787b40bdf4da52f92e7bca3bfb67&#34;&gt;Use Geofilters&lt;/h2&gt;
+&lt;h2 id=&#34;use-geofilters&#34;&gt;Use Geofilters&lt;/h2&gt;
 
 &lt;p&gt;Snapchat Geofilters are graphics that users can overlay on Snapchat photos and
 videos when they are in certain locations. Geofilters are a great way to
@@ -144,7 +272,7 @@ time for the event.&lt;/li&gt;
 a few days).&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;create-an-account:dfd6787b40bdf4da52f92e7bca3bfb67&#34;&gt;Create an Account&lt;/h2&gt;
+&lt;h2 id=&#34;create-an-account&#34;&gt;Create an Account&lt;/h2&gt;
 
 &lt;p&gt;Create a Snapchat account for your organization if you want to connect with
 people in an organic and personal way. Snapchat accounts are not for posting
@@ -194,7 +322,7 @@ unwanted Snaps from your followers.&lt;/li&gt;
 &lt;li&gt;Get snapping!&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;share-your-snapcode:dfd6787b40bdf4da52f92e7bca3bfb67&#34;&gt;Share Your Snapcode&lt;/h2&gt;
+&lt;h2 id=&#34;share-your-snapcode&#34;&gt;Share Your Snapcode&lt;/h2&gt;
 
 &lt;p&gt;A Snapcode is a specialized QR code that allows people to add you on Snapchat by
 simply pointing their camera at it or loading an image of it into Snapchat.&lt;/p&gt;
@@ -209,7 +337,7 @@ will get a &lt;code&gt;.zip&lt;/code&gt; file containing your Snapcode in both &
 people can add your account. Always include the username of the account
 with the Snapcode in case the code does not scan properly.&lt;/p&gt;
 
-&lt;h2 id=&#34;create-awesome-content:dfd6787b40bdf4da52f92e7bca3bfb67&#34;&gt;Create Awesome Content&lt;/h2&gt;
+&lt;h2 id=&#34;create-awesome-content&#34;&gt;Create Awesome Content&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Post something on your story every day.&lt;/li&gt;
