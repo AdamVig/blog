@@ -1,6 +1,7 @@
 {
   "baseurl": "https://blog.adamvig.com",
   "title": "Adam Vigneaux",
+  "theme": "slim",
   "params": {
     "Subtitle": "Blog",
     "GithubID": "adamvig",
