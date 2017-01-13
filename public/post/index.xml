@@ -5,8 +5,44 @@
     <link>https://blog.adamvig.com/post/</link>
     <description>Recent content in Posts on Adam Vigneaux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.adamvig.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Common Sense Security for Everyone</title>
+      <link>https://blog.adamvig.com/post/commonsensesecurity/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.adamvig.com/post/commonsensesecurity/</guid>
+      <description>
+
+&lt;h3 id=&#34;1-use-strong-random-unique-passwords&#34;&gt;1. Use strong, random, unique passwords.&lt;/h3&gt;
+
+&lt;p&gt;Using the same password for every website, regardless of how strong that password is, is dangerous. If your password is exposed at just one of the websites you have signed up for, then that password is compromised everywhere.&lt;/p&gt;
+
+&lt;p&gt;Use a password manager. LastPass is free and runs on all platforms; you should try it. It can generate and remember passwords for websites and apps you use, taking the stress and memorization out of security.&lt;/p&gt;
+
+&lt;p&gt;Generate as long of a password as you can for each website. If you&amp;rsquo;ll never have to type it, there is no reason to not use a twenty-five character (or longer!) password. For your most commonly-used services, use a password generator like &lt;a href=&#34;https://xkpasswd.net/s/&#34;&gt;XKPasswd&lt;/a&gt; to generate something you can actually remember and type, like &lt;code&gt;--16~during~OBSERVE~kind~43--&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;2-use-two-factor-authentication&#34;&gt;2. Use two-factor authentication.&lt;/h3&gt;
+
+&lt;p&gt;Traditionally, login has been based on something you &lt;em&gt;know&lt;/em&gt;, your password. Two-factor authentication incorporates something you &lt;em&gt;have&lt;/em&gt; into the login process, preventing people who have guessed your password or found it leaked online from logging in as you.&lt;/p&gt;
+
+&lt;p&gt;There are plenty of ways to use two-factor authentication, but my favorite app is &lt;a href=&#34;https://lastpass.com/auth/&#34;&gt;LastPass Authenticator&lt;/a&gt;. Other options include &lt;a href=&#34;https://support.google.com/accounts/answer/1066447?hl=en&#34;&gt;Google Authenticator&lt;/a&gt; and SMS messages.&lt;/p&gt;
+
+&lt;h3 id=&#34;3-change-your-passwords-and-delete-old-accounts&#34;&gt;3. Change your passwords and delete old accounts.&lt;/h3&gt;
+
+&lt;p&gt;LastPass has a Security Challenge that gives your passwords a score based on how new they are and how unique they are.&lt;/p&gt;
+
+&lt;p&gt;Once a year whether you use the Security Challenge or not, look at all the sites saved in your password manager. Close old accounts you do not use anymore and change the password on sites you have not updated for a while.&lt;/p&gt;
+
+&lt;h3 id=&#34;security-doesn-t-have-to-be-hard&#34;&gt;Security doesn&amp;rsquo;t have to be hard.&lt;/h3&gt;
+
+&lt;p&gt;With these three steps, you will greatly reduce the odds of getting hacked by brute force or social engineering attacks.&lt;/p&gt;
+
+&lt;p&gt;Security is within reach for you. Invest a small amount of time right now and avoid having to spend a large amount of time sorting out hacked accounts later on.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Input Lists and Stage Diagrams</title>
