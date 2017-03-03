@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<title>How to Install LUTs in Premiere Pro CC</title>
+
+
+<link rel="stylesheet" href="https://blog.adamvig.com/css/slim.css">
+<link rel="stylesheet" href="https://blog.adamvig.com/css/highlight.min.css">
+
+<meta name="description" content="Adam Vigneaux is a student and programmer living in Massachusetts.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="shortcut icon" href="https://blog.adamvig.com/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="https://blog.adamvig.com/img/favicon-152.png">
+<link rel="icon" href="https://blog.adamvig.com/img/favicon-32.png" sizes="32x32">
+<link rel="icon" href="https://blog.adamvig.com/img/favicon-192.png" sizes="192x192">
+<meta name="theme-color" content="#FF5F4F">
+
+
+<meta name="msapplication-TileColor" content="#FF5F4F">
+<meta name="msapplication-TileImage" content="https://blog.adamvig.com/img/favicon-144.png">
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@MeetAdamJohn">
+<meta name="twitter:title" content="Adam Vigneaux">
+<meta name="twitter:description" content="Adam Vigneaux is a student and programmer living in Massachusetts.">
+<meta name="twitter:creator" content="@MeetAdamJohn">
+<meta name="twitter:image" content="https://blog.adamvig.com/img/favicon-500.png">
+
+
+<meta property="og:title" content="Adam Vigneaux">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://blog.adamvig.com">
+<meta property="og:image" content="https://blog.adamvig.com/img/favicon-250.png">
+<meta property="og:description" content="Adam Vigneaux is a student and programmer living in Massachusetts.">
+<meta property="og:site_name" content="Adam Vigneaux">
+
+
+<link href="" rel="alternate" type="application/rss+xml" title="Adam Vigneaux" />
+
+</head>
+
+<body>
+  <header>
+  <div class="vertical-center">
+    <div class="header-inner">
+      <h1 class="site-title"><a href="https://blog.adamvig.com">Adam Vigneaux</a></h1>
+    </div>
+  </div>
+</header>
+
+  <div class="container">
+    <div class="content">
+      <div class="posts">
+        <div class="post">
+          <h2 class="post-title"><a href="https://blog.adamvig.com/post/install-luts-in-premiere/">How to Install LUTs in Premiere Pro CC</a></h2>
+          <span class="post-date">Mar 2, 2017 </span>
+          <div class="post-content">
+            <p>The top search result for &ldquo;How to install LUTs in Premiere Mac&rdquo; is <a href="https://mixinglight.com/portfolio/adding-technical-creative-luts-to-the-lumetri-color-panel/">this outdated article</a>.</p>
+
+<p>As it stands now with Premiere Pro CC 2017, the process to install LUTs on a Mac is much simpler than the above article says it is. Instead of having to &ldquo;wash&rdquo; LUTs with SpeedGrade, you can put <code>.cube</code> files directly into the application directory and have them show up in the &ldquo;Looks&rdquo; dropdown of the &ldquo;Creative&rdquo; section of the Lumetri Color effect.</p>
+
+<ol>
+<li><p>Download some LUTs. <a href="https://www.premiumbeat.com/blog/29-free-luts-for-video/">Here is a PremiumBeat article with some options</a>. I went for the <a href="http://deluts.businesscatalyst.com/deluts-free-lut.html">DeLUTS Free LUT</a>.</p></li>
+
+<li><p>Download, unzip, and find the <code>.cube</code> file or files. Copy the file or files to your clipboard.</p></li>
+
+<li><p>Open Finder and go to <code>/Applications/Adobe Premiere Pro CC 2017</code>. In the folder you opened, right click on the application &ldquo;Adobe Premiere Pro CC 2017&rdquo; and select &ldquo;Show Package Contents.&rdquo; Then navigate to <code>Contents/Lumetri/LUTs</code>.</p>
+
+<p>In this folder, you will see three folders:</p>
+
+<ul>
+<li><strong>Creative</strong>, which contains the LUTs that appear in the &ldquo;Looks&rdquo; dropdown</li>
+<li><strong>Legacy</strong>, which also contains LUTs that show up in that dropdown<br />
+<img alt="Looks" width="450" src="https://blog.adamvig.com/img/post/lumetri-looks.png"></li>
+<li><strong>Technical</strong>, which contains the LUTs that appear in the &ldquo;Input LUT&rdquo; dropdown in the &ldquo;Basic Correction&rdquo; section of Lumetri Color<br />
+<img alt="Input LUTs" width="450" src="https://blog.adamvig.com/img/post/lumetri-input-luts.png">
+<br /></li>
+</ul></li>
+
+<li><p>Open the <code>Creative</code> folder and paste your <code>.cube</code> file or files into it. Open or restart Premiere and the LUTs should now be permanently available in the &ldquo;Looks&rdquo; dropdown.</p>
+
+<p><em>On a shared computer?</em><br />
+If you are not an administrator on your computer, a popup will appear asking you to enter an administrator&rsquo;s username and password when you attempt to paste your LUTs into the folder. This is because Premiere is installed in the systemwide applications folder by default.</p>
+
+<p>To fix this problem, copy the entire &ldquo;Adobe Premiere Pro CC 2017&rdquo; folder from <code>/Applications</code> to <code>/Users/[username]/Applications</code> then attempt this step again with the copy of Premiere. By copying Premiere into this folder, you have made it possible for your user to modify the application files. The only drawback is that you will now have to launch Premiere from this directory every time you use it. You can make an alias (a shortcut) to the application or keep it in your dock to make that easier.</p></li>
+</ol>
+
+          </div>
+        </div>
+        <div class="pagination"> 
+          <a class="btn next " href="https://blog.adamvig.com/post/commonsensesecurity/"> Next</a> 
+        </div>
+      </div>
+    </div>
+    <div class="footer">
+  <a href="http://adamvig.com">AdamVig.com</a>
+</div>
+
+  </div>
+  <script src="https://blog.adamvig.com/js/slim.js"></script>
+  <script src="https://blog.adamvig.com/js/highlight.min.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+  </script>
+  
+</body>
+
+</html>
