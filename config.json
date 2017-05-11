@@ -1,5 +1,5 @@
 {
-  "baseurl": "https://blog.adamvig.com",
+  "baseURL": "https://blog.adamvig.com",
   "title": "Adam Vigneaux",
   "theme": "slim",
   "params": {
