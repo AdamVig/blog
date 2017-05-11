@@ -10,7 +10,7 @@ I need an external hard drive for audiovisual production. I use my external hard
 
 Audio is easy: it does not take much space and does not require high transfer speeds. However, my current drive (a WD My Passport 1TB that I got for free) randomly unmounts, creating huge gaps when recording directly to the drive. The unmounting problem is less apparent when editing video, but is still an annoyance.  
 
-Video is tricker: with 4K video becoming the norm, a high speed drive is crucial. My current spinning-disk USB 3.0 drive has been fine, but transfer speeds could certainly be better. The faster the video transfers, the more time I have to work. Also, the faster the drive, the smoother the editing process should be.  
+Video is trickier: with 4K video becoming the norm, a high speed drive is crucial. My current spinning-disk USB 3.0 drive has been fine, but transfer speeds could certainly be better. The faster the video transfers, the more time I have to work. Also, the faster the drive, the smoother the editing process should be.  
 
 The hard drive's connectors are an important consideration. In 2017, I no longer want to buy any peripherals that are not USB-C. This is the new universal connector and it Just Makes Sense. Of course, the connector doesn't tell all: I want a hard drive with the fastest possible transfer speeds, so USB 3.1 and Thunderbolt 3 over USB-C are a must. I will also need a way to plug USB-C into my current laptop, which only has USB-A ports.  
 
