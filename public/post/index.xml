@@ -2,11 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Adam Vigneaux</title>
-    <link>https://blog.adamvig.com/post/index.xml</link>
+    <link>https://blog.adamvig.com/post/</link>
     <description>Recent content in Posts on Adam Vigneaux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.adamvig.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.adamvig.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>External Hard Drive Upgrade (2017)</title>
+      <link>https://blog.adamvig.com/post/external-hard-drive-upgrade-2017/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.adamvig.com/post/external-hard-drive-upgrade-2017/</guid>
+      <description>I need an external hard drive for audiovisual production. I use my external hard drive for two things:
+ editing video recording and editing audio  Audio is easy: it does not take much space and does not require high transfer speeds. However, my current drive (a WD My Passport 1TB that I got for free) randomly unmounts, creating huge gaps when recording directly to the drive. The unmounting problem is less apparent when editing video, but is still an annoyance.</description>
+    </item>
     
     <item>
       <title>How to Install LUTs in Premiere Pro CC</title>
@@ -14,36 +26,8 @@
       <pubDate>Thu, 02 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://blog.adamvig.com/post/install-luts-in-premiere/</guid>
-      <description>&lt;p&gt;The top search result for &amp;ldquo;How to install LUTs in Premiere Mac&amp;rdquo; is &lt;a href=&#34;https://mixinglight.com/portfolio/adding-technical-creative-luts-to-the-lumetri-color-panel/&#34;&gt;this outdated article&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;As it stands now with Premiere Pro CC 2017, the process to install LUTs on a Mac is much simpler than the above article says it is. Instead of having to &amp;ldquo;wash&amp;rdquo; LUTs with SpeedGrade, you can put &lt;code&gt;.cube&lt;/code&gt; files directly into the application directory and have them show up in the &amp;ldquo;Looks&amp;rdquo; dropdown of the &amp;ldquo;Creative&amp;rdquo; section of the Lumetri Color effect.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Download some LUTs. &lt;a href=&#34;https://www.premiumbeat.com/blog/29-free-luts-for-video/&#34;&gt;Here is a PremiumBeat article with some options&lt;/a&gt;. I went for the &lt;a href=&#34;http://deluts.businesscatalyst.com/deluts-free-lut.html&#34;&gt;DeLUTS Free LUT&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Download, unzip, and find the &lt;code&gt;.cube&lt;/code&gt; file or files. Copy the file or files to your clipboard.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Open Finder and go to &lt;code&gt;/Applications/Adobe Premiere Pro CC 2017&lt;/code&gt;. In the folder you opened, right click on the application &amp;ldquo;Adobe Premiere Pro CC 2017&amp;rdquo; and select &amp;ldquo;Show Package Contents.&amp;rdquo; Then navigate to &lt;code&gt;Contents/Lumetri/LUTs&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;In this folder, you will see three folders:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Creative&lt;/strong&gt;, which contains the LUTs that appear in the &amp;ldquo;Looks&amp;rdquo; dropdown&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Legacy&lt;/strong&gt;, which also contains LUTs that show up in that dropdown&lt;br /&gt;
-&lt;img alt=&#34;Looks&#34; width=&#34;450&#34; src=&#34;https://blog.adamvig.com/img/post/lumetri-looks.png&#34;&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Technical&lt;/strong&gt;, which contains the LUTs that appear in the &amp;ldquo;Input LUT&amp;rdquo; dropdown in the &amp;ldquo;Basic Correction&amp;rdquo; section of Lumetri Color&lt;br /&gt;
-&lt;img alt=&#34;Input LUTs&#34; width=&#34;450&#34; src=&#34;https://blog.adamvig.com/img/post/lumetri-input-luts.png&#34;&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Open the &lt;code&gt;Creative&lt;/code&gt; folder and paste your &lt;code&gt;.cube&lt;/code&gt; file or files into it. Open or restart Premiere and the LUTs should now be permanently available in the &amp;ldquo;Looks&amp;rdquo; dropdown.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;On a shared computer?&lt;/em&gt;&lt;br /&gt;
-If you are not an administrator on your computer, a popup will appear asking you to enter an administrator&amp;rsquo;s username and password when you attempt to paste your LUTs into the folder. This is because Premiere is installed in the systemwide applications folder by default.&lt;/p&gt;
-
-&lt;p&gt;To fix this problem, copy the entire &amp;ldquo;Adobe Premiere Pro CC 2017&amp;rdquo; folder from &lt;code&gt;/Applications&lt;/code&gt; to &lt;code&gt;/Users/[username]/Applications&lt;/code&gt; then attempt this step again with the copy of Premiere. By copying Premiere into this folder, you have made it possible for your user to modify the application files. The only drawback is that you will now have to launch Premiere from this directory every time you use it. You can make an alias (a shortcut) to the application or keep it in your dock to make that easier.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>The top search result for &amp;ldquo;How to install LUTs in Premiere Mac&amp;rdquo; is this outdated article.
+As it stands now with Premiere Pro CC 2017, the process to install LUTs on a Mac is much simpler than the above article says it is. Instead of having to &amp;ldquo;wash&amp;rdquo; LUTs with SpeedGrade, you can put .cube files directly into the application directory and have them show up in the &amp;ldquo;Looks&amp;rdquo; dropdown of the &amp;ldquo;Creative&amp;rdquo; section of the Lumetri Color effect.</description>
     </item>
     
     <item>
@@ -52,34 +36,8 @@ If you are not an administrator on your computer, a popup will appear asking you
       <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://blog.adamvig.com/post/commonsensesecurity/</guid>
-      <description>
-
-&lt;h3 id=&#34;1-use-strong-random-unique-passwords&#34;&gt;1. Use strong, random, unique passwords.&lt;/h3&gt;
-
-&lt;p&gt;Using the same password for every website, regardless of how strong that password is, is dangerous. If your password is exposed at just one of the websites you have signed up for, then that password is compromised everywhere.&lt;/p&gt;
-
-&lt;p&gt;Use a password manager. LastPass is free and runs on all platforms; you should try it. It can generate and remember passwords for websites and apps you use, taking the stress and memorization out of security.&lt;/p&gt;
-
-&lt;p&gt;Generate as long of a password as you can for each website. If you&amp;rsquo;ll never have to type it, there is no reason to not use a twenty-five character (or longer!) password. For your most commonly-used services, use a password generator like &lt;a href=&#34;https://xkpasswd.net/s/&#34;&gt;XKPasswd&lt;/a&gt; to generate something you can actually remember and type, like &lt;code&gt;--16~during~OBSERVE~kind~43--&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;2-use-two-factor-authentication&#34;&gt;2. Use two-factor authentication.&lt;/h3&gt;
-
-&lt;p&gt;Traditionally, login has been based on something you &lt;em&gt;know&lt;/em&gt;, your password. Two-factor authentication incorporates something you &lt;em&gt;have&lt;/em&gt; into the login process, preventing people who have guessed your password or found it leaked online from logging in as you.&lt;/p&gt;
-
-&lt;p&gt;There are plenty of ways to use two-factor authentication, but my favorite app is &lt;a href=&#34;https://lastpass.com/auth/&#34;&gt;LastPass Authenticator&lt;/a&gt;. Other options include &lt;a href=&#34;https://support.google.com/accounts/answer/1066447?hl=en&#34;&gt;Google Authenticator&lt;/a&gt; and SMS messages.&lt;/p&gt;
-
-&lt;h3 id=&#34;3-change-your-passwords-and-delete-old-accounts&#34;&gt;3. Change your passwords and delete old accounts.&lt;/h3&gt;
-
-&lt;p&gt;LastPass has a Security Challenge that gives your passwords a score based on how new they are and how unique they are.&lt;/p&gt;
-
-&lt;p&gt;Once a year whether you use the Security Challenge or not, look at all the sites saved in your password manager. Close old accounts you do not use anymore and change the password on sites you have not updated for a while.&lt;/p&gt;
-
-&lt;h3 id=&#34;security-doesn-t-have-to-be-hard&#34;&gt;Security doesn&amp;rsquo;t have to be hard.&lt;/h3&gt;
-
-&lt;p&gt;With these three steps, you will greatly reduce the odds of getting hacked by brute force or social engineering attacks.&lt;/p&gt;
-
-&lt;p&gt;Security is within reach for you. Invest a small amount of time right now and avoid having to spend a large amount of time sorting out hacked accounts later on.&lt;/p&gt;
-</description>
+      <description>1. Use strong, random, unique passwords. Using the same password for every website, regardless of how strong that password is, is dangerous. If your password is exposed at just one of the websites you have signed up for, then that password is compromised everywhere.
+Use a password manager. LastPass is free and runs on all platforms; you should try it. It can generate and remember passwords for websites and apps you use, taking the stress and memorization out of security.</description>
     </item>
     
     <item>
@@ -88,126 +46,9 @@ If you are not an administrator on your computer, a popup will appear asking you
       <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.adamvig.com/post/inputliststagediagram/</guid>
-      <description>&lt;p&gt;The most important communication that happens ahead of a musical event is in the form of a technical rider.&lt;/p&gt;
-
-&lt;p&gt;The technical rider includes specifications for sound, lighting, video, and backline equipment. The key parts of the rider are the input list, which describes all of the audio inputs the band will need, and the stage diagram, which shows the layout of the instruments and performers on stage.&lt;/p&gt;
-
-&lt;p&gt;An input list must contain three pieces of information for each input:&lt;br /&gt;
-1. channel number&lt;br /&gt;
-2. instrument name&lt;br /&gt;
-3. microphone/direct box type&lt;/p&gt;
-
-&lt;p&gt;If microphone or direct box type is unknown, leave it blank. This is an example input list:&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Channel&lt;/th&gt;
-&lt;th&gt;Instrument&lt;/th&gt;
-&lt;th&gt;Input&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;Lead Vocal&lt;/td&gt;
-&lt;td&gt;SM 58&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;Bkg Vocal&lt;/td&gt;
-&lt;td&gt;SM 58&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;Electric Guitar&lt;/td&gt;
-&lt;td&gt;e609 (isolation)&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;Keyboard Left&lt;/td&gt;
-&lt;td&gt;DI&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;Keyboard Right&lt;/td&gt;
-&lt;td&gt;DI&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;6&lt;/td&gt;
-&lt;td&gt;Bass Amp&lt;/td&gt;
-&lt;td&gt;BETA 52a&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;7&lt;/td&gt;
-&lt;td&gt;Kick&lt;/td&gt;
-&lt;td&gt;Audix D6&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;8&lt;/td&gt;
-&lt;td&gt;Snare&lt;/td&gt;
-&lt;td&gt;SM 57&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;9&lt;/td&gt;
-&lt;td&gt;Drum Side&lt;/td&gt;
-&lt;td&gt;KSM 32&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;Drum Top&lt;/td&gt;
-&lt;td&gt;KSM 32&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;11&lt;/td&gt;
-&lt;td&gt;Click&lt;/td&gt;
-&lt;td&gt;DI&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;12&lt;/td&gt;
-&lt;td&gt;Tracks Left&lt;/td&gt;
-&lt;td&gt;DI&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;13&lt;/td&gt;
-&lt;td&gt;Tracks Right&lt;/td&gt;
-&lt;td&gt;DI&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;A stage diagram must at least contain the placement of all musicians and instruments. It can be made more helpful by adding placement of microphones, direct boxes, and guitar stands; but most of that information can be extrapolated from the arrangement of the band.&lt;/p&gt;
-
-&lt;p&gt;Create a more complex stage diagram for situations where the tech should not have any creative input. Create a barebones stage diagram for situations where the tech is experienced and should provide creative input.&lt;/p&gt;
-
-&lt;p&gt;This is a complex example of a stage diagram:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://blog.adamvig.com/img/post/example-complex-stage-diagram.png&#34; alt=&#34;Example Complex Stage Diagram&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The above example includes detailed placement information for everything including Aviom personal mixers. This type of stage diagram is useful when the band works closely with the technical team; it can help turn setup into a simple mechanical process by getting all of the decision-making out of the way in advance.&lt;/p&gt;
-
-&lt;p&gt;This is a simpler example of a stage diagram:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://blog.adamvig.com/img/post/example-simple-stage-diagram.png&#34; alt=&#34;Example Simple Stage Diagram&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When creating a stage diagram, it is helpful to keep the following guidelines in mind:&lt;br /&gt;
-- arrange vocalists in order from left to right&lt;br /&gt;
-- maintain a line of sight between drums, bass, and other rhythm instruments&lt;br /&gt;
-- spread the band out across all available stage space&lt;/p&gt;
-</description>
+      <description>The most important communication that happens ahead of a musical event is in the form of a technical rider.
+The technical rider includes specifications for sound, lighting, video, and backline equipment. The key parts of the rider are the input list, which describes all of the audio inputs the band will need, and the stage diagram, which shows the layout of the instruments and performers on stage.
+An input list must contain three pieces of information for each input:</description>
     </item>
     
     <item>
@@ -216,19 +57,11 @@ If you are not an administrator on your computer, a popup will appear asking you
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://blog.adamvig.com/post/skillnottalent/</guid>
-      <description>&lt;p&gt;Talent is natural aptitude.&lt;/p&gt;
-
-&lt;p&gt;Skill is hard-earned knowledge and experience.&lt;/p&gt;
-
-&lt;p&gt;Calling a person talented implies that they were born with the
-abilities they currently have. Talent is raw, untrained ability.&lt;/p&gt;
-
-&lt;p&gt;Calling a person skilled shows respect for the hard work it took to
-develop their abilities. Skill is honed, well-practiced ability.&lt;/p&gt;
-
-&lt;p&gt;It is a much greater compliment to call someone &lt;em&gt;skilled&lt;/em&gt; than to
-call them &amp;ldquo;talented&amp;rdquo;.&lt;/p&gt;
-</description>
+      <description>Talent is natural aptitude.
+Skill is hard-earned knowledge and experience.
+Calling a person talented implies that they were born with the abilities they currently have. Talent is raw, untrained ability.
+Calling a person skilled shows respect for the hard work it took to develop their abilities. Skill is honed, well-practiced ability.
+It is a much greater compliment to call someone skilled than to call them &amp;ldquo;talented&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -237,19 +70,7 @@ call them &amp;ldquo;talented&amp;rdquo;.&lt;/p&gt;
       <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.adamvig.com/post/macapps/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://semaja2.net/projects/insomniaxinfo/&#34;&gt;InsomniaX&lt;/a&gt;: a feature-rich
-menubar app that allows you to suppress idle sleep and lid sleep on a laptop.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.macupdate.com/app/mac/24590/skim&#34;&gt;Skim&lt;/a&gt;: a fast and efficient PDF reader with annotation tools.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://displaymenu.milchimgemuesefach.de/&#34;&gt;Display Menu&lt;/a&gt;: free with optional $2 pro version upgrade; allows you to adjust display resolution easily, useful to get more space on Retina Macbook displays.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.monityapp.com/&#34;&gt;Monity&lt;/a&gt;: $5, tasteful system monitoring app that displays statistics and info in the Notification Center.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.goofyapp.com/&#34;&gt;Goofy&lt;/a&gt;: Facebook messenger app that is essentially a wrapper for Messenger.com but provides native OS X notifications for new messages.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.spectacleapp.com/&#34;&gt;Spectacle&lt;/a&gt;: window manager accessible through menubar or system-wide keyboard shortcuts, useful for quickly making windows fill the screen or go split screen.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.derlien.com/&#34;&gt;Disk Inventory X&lt;/a&gt;: disk usage analysis tool to help you visualize what is taking up the most hard drive space&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://unarchiver.c3.cx/unarchiver&#34;&gt;The Unarchiver&lt;/a&gt;: capable utility that can extract a wide variety of archive formats&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.iterm2.com/&#34;&gt;iTerm 2&lt;/a&gt;: customizable replacement for Terminal.app&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>InsomniaX: a feature-rich menubar app that allows you to suppress idle sleep and lid sleep on a laptop. Skim: a fast and efficient PDF reader with annotation tools. Display Menu: free with optional $2 pro version upgrade; allows you to adjust display resolution easily, useful to get more space on Retina Macbook displays. Monity: $5, tasteful system monitoring app that displays statistics and info in the Notification Center. Goofy: Facebook messenger app that is essentially a wrapper for Messenger.</description>
     </item>
     
     <item>
@@ -258,52 +79,11 @@ menubar app that allows you to suppress idle sleep and lid sleep on a laptop.&lt
       <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.adamvig.com/post/inearmix/</guid>
-      <description>
-
-&lt;p&gt;The key to a good musical performance is confidence. Confidence comes from
-comfort. Comfort means the musician can clearly hear himself or herself.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The in-ear mix is the key to a musician&amp;rsquo;s performance.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The in-ear mix has a few parts:&lt;/p&gt;
-
-&lt;h2 id=&#34;1-the-headphones&#34;&gt;1) The Headphones&lt;/h2&gt;
-
-&lt;p&gt;Buy &lt;a href=&#34;http://www.shure.com/americas/products/earphones/se-earphones/se215-sound-isolating-earphones&#34;&gt;Shure SE215 earbuds&lt;/a&gt;.
-$100 is a small amount to spend on a crucial part of
-your performance.&lt;/p&gt;
-
-&lt;p&gt;There are two considerations when buying earbuds: build quality and sound
-quality. All Shure earbuds are built to last. The SE215s and above have
-removable cables, meaning that you can fix your headphones for the price of a
-new cable (around $30) instead of having to buy a whole new pair. The SE215s
-have a warm, full, reliable sound. You will not miss anything when you wear
-these onstage.&lt;/p&gt;
-
-&lt;p&gt;The foam tips provide a tight, bass-enhancing seal that blocks
-out ambient noise to protect your hearing. Always wear both earbuds. If you leave
-one earbud out, you will damage your hearing. One ear is hearing the loud house
-mix and the other is hearing the relatively quiet in-ear mix, so you will
-naturally turn up the in-ear mix to compensate. You might not suffer hearing loss
-in the open ear, but you will suffer hearing loss in the ear with the loud
-in-ear mix.&lt;/p&gt;
-
-&lt;p&gt;Read my guide on wearing the Shure SE215s &lt;a href=&#34;https://docs.google.com/document/d/1b4MDASpO0i5x4Lvz0Hg9bVW1p-gWygIKmWBJi3Tqkyc/edit?usp=sharing&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;2-the-mix&#34;&gt;2) The Mix&lt;/h2&gt;
-
-&lt;p&gt;Do not turn every channel up. Turn the click track or rhythm-keeping instrument
-up, then the lead vocalist, then your own instrument and/or vocal. Everything
-else is fluff.&lt;/p&gt;
-
-&lt;p&gt;Take advantage of panning. Pan the vocals, drums, or anything else to the
-hard left and right to clear out some space in your in-ear mix. This may sound
-abstract, but panning is the key to bringing your in-ear mix to the next level.&lt;/p&gt;
-
-&lt;p&gt;Use the ambient microphone. The ambient microphone is intended
-to give the musician an idea of what the house mix sounds like and what the
-audience is doing.&lt;/p&gt;
-</description>
+      <description>The key to a good musical performance is confidence. Confidence comes from comfort. Comfort means the musician can clearly hear himself or herself.
+The in-ear mix is the key to a musician&amp;rsquo;s performance.
+The in-ear mix has a few parts:
+1) The Headphones Buy Shure SE215 earbuds. $100 is a small amount to spend on a crucial part of your performance.
+There are two considerations when buying earbuds: build quality and sound quality.</description>
     </item>
     
     <item>
@@ -312,120 +92,9 @@ audience is doing.&lt;/p&gt;
       <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.adamvig.com/post/snapchatmarketing/</guid>
-      <description>
-
-&lt;p&gt;When it comes to social media marketing, Snapchat has a limited feature set but
-an undeniably huge reach.&lt;/p&gt;
-
-&lt;h2 id=&#34;use-geofilters&#34;&gt;Use Geofilters&lt;/h2&gt;
-
-&lt;p&gt;Snapchat Geofilters are graphics that users can overlay on Snapchat photos and
-videos when they are in certain locations. Geofilters are a great way to
-create a brand for a specific location such as a city, a neighborhood, or a
-university.&lt;/p&gt;
-
-&lt;p&gt;Snapchat&amp;rsquo;s terms and conditions do not allow the use of logos or trademarks in
-Geofilters. Still, your Geofilter can use colors and text to give your brand a
-fun personality and to associate it with a specific geographical area.&lt;/p&gt;
-
-&lt;p&gt;It is easy to submit your own!&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Go to the &lt;a href=&#34;https://www.snapchat.com/geofilters/&#34;&gt;Snapchat Geofilters page&lt;/a&gt;
-and click the button to get started.&lt;/li&gt;
-&lt;li&gt;Design your Geofilter using the guidelines on this page. Optionally, download
-and use a
-&lt;a href=&#34;http://highedwebtech.com/2015/06/25/snapchat-geofilter-template/&#34;&gt;template&lt;/a&gt;.
-Save your Geofilter as &lt;code&gt;.png&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Click the button to go to the Geofilter submission page on the Snapchat
-website. Upload your image. Draw an area on the map in which this Geofilter
-should be accessible. Fill out your name, email, and why this location is
-meaningful to you. If this Geofilter is for an event, fill out a start and end
-time for the event.&lt;/li&gt;
-&lt;li&gt;Submit the form and wait for Snapchat to approve your request (it will take
-a few days).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;create-an-account&#34;&gt;Create an Account&lt;/h2&gt;
-
-&lt;p&gt;Create a Snapchat account for your organization if you want to connect with
-people in an organic and personal way. Snapchat accounts are not for posting
-advertisements. They are for posting raw behind-the-scenes content that would
-not &amp;ldquo;fit&amp;rdquo; on other social networks.&lt;/p&gt;
-
-&lt;p&gt;A great idea for an organization is to purchase a dedicated Snapchat device.
-Since Snapchat does not allow an account to be signed in to multiple devices at
-once, you will have to log out of your personal account and log in to your
-organization&amp;rsquo;s account every time you want to use it. Buy an iPod Touch or iPad
-to solve this problem and to allow more people to participate in posting
-content.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Sign up with your organization&amp;rsquo;s email address and, if possible, phone
-number.
-
-&lt;ul&gt;
-&lt;li&gt;One option is to create a Google Voice account with a new phone number
-so that the Snapchat account is not tied to a personal cell phone number.&lt;/li&gt;
-&lt;li&gt;Set the username to something short and memorable - other people will have
-to type it to follow the account on their phones and you will have to type it
-every time you log in to the account.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Configure your settings correctly.
-
-&lt;ul&gt;
-&lt;li&gt;On the camera screen, tap the ghost icon in the top center then tap the gear
-icon on the overlay that appears. This will bring you to your account
-settings.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Name&lt;/strong&gt;: Your name is what will show up next to your story. This can have
-spaces, capital letters, emoji, and special characters. Use it to
-differentiate your organization and make your story stand out. If you do not
-set a name, it will default to your boring, lowercase username.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Number&lt;/strong&gt;: If your account is tied to a personal cell phone number,
-disable &lt;em&gt;Allow My Friends to Find Me&lt;/em&gt; to avoid associating your organization
-with a specific person.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Manage Additional Services&lt;/strong&gt;: Enable Filters here.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Who Can Send Me Snaps&lt;/strong&gt;: Leave this set to &lt;em&gt;My Friends&lt;/em&gt; to avoid unwanted
-Snaps.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Who Can View My Story&lt;/strong&gt;: Set this to &lt;em&gt;Everyone&lt;/em&gt;. This will enable people
-to watch your story immediately after they add you without having to wait
-for you to add them back. In fact, you should not add people back on Snapchat.
-It can make your organization seem &lt;em&gt;too&lt;/em&gt; personal and allows potentially
-unwanted Snaps from your followers.&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Get snapping!&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;share-your-snapcode&#34;&gt;Share Your Snapcode&lt;/h2&gt;
-
-&lt;p&gt;A Snapcode is a specialized QR code that allows people to add you on Snapchat by
-simply pointing their camera at it or loading an image of it into Snapchat.&lt;/p&gt;
-
-&lt;p&gt;You could take a screenshot of it in the app, but the best place to get a clean
-copy of your Snapcode is the
-&lt;a href=&#34;https://accounts.snapchat.com/accounts/snapcodes&#34;&gt;Snapcode download page&lt;/a&gt;. You
-will get a &lt;code&gt;.zip&lt;/code&gt; file containing your Snapcode in both &lt;code&gt;.svg&lt;/code&gt; (vector) and
-&lt;code&gt;.png&lt;/code&gt; formats as well as a &lt;code&gt;.pdf&lt;/code&gt; of guidelines for using the Snapcode.&lt;/p&gt;
-
-&lt;p&gt;Post this image on social networks and print it on posters or handouts so
-people can add your account. Always include the username of the account
-with the Snapcode in case the code does not scan properly.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-awesome-content&#34;&gt;Create Awesome Content&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Post something on your story every day.&lt;/li&gt;
-&lt;li&gt;Videos are more interesting than photos.&lt;/li&gt;
-&lt;li&gt;Cut to the chase: your followers will skip any part of your story that does
-not immediately grab their attention.&lt;/li&gt;
-&lt;li&gt;Only post content that would not &amp;ldquo;fit&amp;rdquo; on another social network.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These are a few general pointers, but there is no formula for creating great
-Snapchat content. Be honest, personal, and interesting in your Snapchat stories
-to get people talking about your Snapchat account and, better yet, your brand as
-a whole.&lt;/p&gt;
-</description>
+      <description>When it comes to social media marketing, Snapchat has a limited feature set but an undeniably huge reach.
+Use Geofilters Snapchat Geofilters are graphics that users can overlay on Snapchat photos and videos when they are in certain locations. Geofilters are a great way to create a brand for a specific location such as a city, a neighborhood, or a university.
+Snapchat&amp;rsquo;s terms and conditions do not allow the use of logos or trademarks in Geofilters.</description>
     </item>
     
     <item>
@@ -434,32 +103,12 @@ a whole.&lt;/p&gt;
       <pubDate>Thu, 03 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.adamvig.com/post/lazycrossposting/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;cross-posting (n): automatically posting content from one social network to
-one or more other social networks.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;Cross-posting is lazy social media strategy.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Social media users demand content tailored to the audience. Even though the
-audience consists of most of the same people between social networks, those
-people expect different types of content on each social network.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Instagram:&lt;/em&gt;&lt;br /&gt;
-- low-frequency posts&lt;br /&gt;
-- long-form text content is common in the post description&lt;br /&gt;
-- focus on the media, not the network&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Facebook:&lt;/em&gt;&lt;br /&gt;
-- multimedia posts&lt;br /&gt;
-- enough text content to explain the media in the post&lt;br /&gt;
-- emphasis on engagement in comments&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Twitter:&lt;/em&gt;&lt;br /&gt;
-- high-frequency posts&lt;br /&gt;
-- brief text content&lt;br /&gt;
-- multimedia posts get the same screen space as text-only posts&lt;/p&gt;
-</description>
+      <description>cross-posting (n): automatically posting content from one social network to one or more other social networks.
+ Cross-posting is lazy social media strategy.
+Social media users demand content tailored to the audience. Even though the audience consists of most of the same people between social networks, those people expect different types of content on each social network.
+Instagram:
+- low-frequency posts
+- long-form text content is common in the post description</description>
     </item>
     
     <item>
@@ -468,41 +117,11 @@ people expect different types of content on each social network.&lt;/p&gt;
       <pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.adamvig.com/post/cellphoneupgrade/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://blog.adamvig.com/img/post/peoplewhobuythings.gif&#34; alt=&#34;People Who Buy Things Are Suckers&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Never buy a cell phone new at full price.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Cell carriers are no longer offering subsidies on new phones. $700 is too much
-to spend for that new iPhone. The solution: buy used.&lt;/p&gt;
-
-&lt;p&gt;Buying used phones gives you the freedom to buy and sell phones whenever you want.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Your first phone is your upfront investment.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Put a protective case and screen protector on the phone the moment you take it
-out of the box to protect this investment. Protect your investment so you can
-sell it for top dollar down the road.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;When you buy a new phone, sell your current phone to recoup some or all of the
-cost.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Check the market price of your current phone before you purchase a new phone to
-set a price range for your purchase.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Where to buy and sell phones:&lt;/strong&gt;&lt;br /&gt;
-All three of these sites have buyer protection, so if your phone is defective
-you can send it back for a full refund.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://glyde.com&#34;&gt;Glyde&lt;/a&gt;&lt;br /&gt;
-  - Easiest for selling: they ship you a box to put the phone in&lt;br /&gt;
-  - Highest fees for selling&lt;br /&gt;
-  - Useful indicator of market price&lt;br /&gt;
-&lt;a href=&#34;http://swappa.com&#34;&gt;Swappa&lt;/a&gt;&lt;br /&gt;
-  - Low selling fees&lt;br /&gt;
-  - Buyer talks directly to seller, not through Swappa&lt;br /&gt;
-&lt;a href=&#34;http://ebay.com&#34;&gt;Ebay&lt;/a&gt;&lt;br /&gt;
-  - Highest level of risk, but often the best offers&lt;/p&gt;
-</description>
+      <description>Never buy a cell phone new at full price.
+Cell carriers are no longer offering subsidies on new phones. $700 is too much to spend for that new iPhone. The solution: buy used.
+Buying used phones gives you the freedom to buy and sell phones whenever you want.
+Your first phone is your upfront investment.
+Put a protective case and screen protector on the phone the moment you take it out of the box to protect this investment.</description>
     </item>
     
     <item>
@@ -511,28 +130,10 @@ you can send it back for a full refund.&lt;/p&gt;
       <pubDate>Sat, 29 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.adamvig.com/post/oniterating/</guid>
-      <description>&lt;p&gt;To iterate is to repeat with the intent of reaching a desired goal.&lt;/p&gt;
-
-&lt;p&gt;When you know what you want to achieve but you have to create several drafts
-along the way, you are iterating.&lt;/p&gt;
-
-&lt;p&gt;Iterating can be a process of proving yourself.&lt;/p&gt;
-
-&lt;p&gt;In situations where money is involved, and the big picture requires a large
-purchase, the big picture can be attained through a process of several small
-purchases that prove the validity of the big picture.&lt;/p&gt;
-
-&lt;p&gt;In situations where the goal is a dramatic change in the way something is done,
-the change can be achieved through a process of proving that the change will be
-better. Apply the process in small pieces.&lt;/p&gt;
-
-&lt;p&gt;Iterating can help you see that your ideas are misguided. Instead of going all
-in with an unproven idea, the process of iteration forces you to pick your own
-idea apart. If it is a good idea, this process has the byproduct of making your
-idea succeed. If it is not a good idea, you will see it and change the idea.&lt;/p&gt;
-
-&lt;p&gt;To iterate is to prove yourself a little bit at a time.&lt;/p&gt;
-</description>
+      <description>To iterate is to repeat with the intent of reaching a desired goal.
+When you know what you want to achieve but you have to create several drafts along the way, you are iterating.
+Iterating can be a process of proving yourself.
+In situations where money is involved, and the big picture requires a large purchase, the big picture can be attained through a process of several small purchases that prove the validity of the big picture.</description>
     </item>
     
     <item>
@@ -541,20 +142,9 @@ idea succeed. If it is not a good idea, you will see it and change the idea.&lt;
       <pubDate>Sat, 29 Aug 2015 00:00:00 +0000</pubDate>
       
       <guid>https://blog.adamvig.com/post/pushvspull/</guid>
-      <description>&lt;p&gt;Unlock your phone, open all of your social apps, and turn off push
-notifications. Only enable push notifications for apps that need instant
-responses, such as messages and email.&lt;/p&gt;
-
-&lt;p&gt;When you allow apps to send you push notifications, you give them control over
-your schedule. Your attention span is defined by the period in between
-interruptions from your phone.&lt;/p&gt;
-
-&lt;p&gt;This approach works better than putting your phone on silent because important
-notifications will still come through.&lt;/p&gt;
-
-&lt;p&gt;Reclaim your attention span. &lt;strong&gt;Pull&lt;/strong&gt; information on your own terms instead of
-letting apps &lt;strong&gt;push&lt;/strong&gt; the information to you.&lt;/p&gt;
-</description>
+      <description>Unlock your phone, open all of your social apps, and turn off push notifications. Only enable push notifications for apps that need instant responses, such as messages and email.
+When you allow apps to send you push notifications, you give them control over your schedule. Your attention span is defined by the period in between interruptions from your phone.
+This approach works better than putting your phone on silent because important notifications will still come through.</description>
     </item>
     
   </channel>
