@@ -1,13 +1,15 @@
 {
   "baseURL": "https://blog.adamvig.com",
-  "title": "Adam Vigneaux",
+  "title": "Blog",
   "theme": "slim",
   "params": {
     "Subtitle": "Blog",
     "GithubID": "adamvig",
-    "TwitterID": "meetadamjohn"
+    "TwitterID": "meetadamjohn",
+    "TitleSuffix": " | Adam Vigneaux"
   },
-  "disablesitemap": true,
+  "disableKinds": ["sitemap"],
+  "languageCode": "en",
   "paginate": 100,
   "canonifyurls": true
 }
