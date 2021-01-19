@@ -4,4 +4,3 @@ title = "Blog"
 enableRobotsTXT = true
 languageCode = "en-us"
 paginate = 25
-theme = "adamvig"
