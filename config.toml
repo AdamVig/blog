@@ -1,3 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.adamvig.com/"
+title = "Blog"
+
+enableRobotsTXT = true
 languageCode = "en-us"
-title = "My New Hugo Site"
+paginate = 25
+theme = "adamvig"
