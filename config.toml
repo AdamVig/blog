@@ -1,4 +1,4 @@
-baseURL = "https://blog.adamvig.com/"
+baseURL = "https://blog.adamvig.com"
 title = "Blog"
 
 enableRobotsTXT = true
