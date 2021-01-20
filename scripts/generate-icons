@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+
+readonly root_icon_path=./static/icon.svg
+if ! [ -f "$root_icon_path" ]; then
+	 echo "error: $root_icon_path is missing"
+	 exit 1
+fi
+
+if ! command -v inkscape >/dev/null; then
+	 echo 'error: Inkscape CLI must be installed'
+	 exit 1
+fi
+
+if ! command -v convert >/dev/null; then
+	 echo 'error: ImageMagick must be installed'
+	 exit 1
+fi
+
+inkscape --export-width=16 "$root_icon_path" --export-filename ./static/icon-16.png
+inkscape --export-width=32 "$root_icon_path" --export-filename ./static/icon-32.png
+convert ./static/icon-{16,32}.png ./static/favicon.ico
+rm -f ./static/icon-{16,32}.png
+inkscape --export-width=180 "$root_icon_path" --export-filename ./static/apple-touch-icon.png
+inkscape --export-width=192 "$root_icon_path" --export-filename ./static/icon-192.png
+inkscape --export-width=512 "$root_icon_path" --export-filename ./static/icon-512.png
