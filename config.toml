@@ -1,5 +1,5 @@
 baseURL = "https://blog.adamvig.com"
-title = "Blog"
+title = "Blog — Adam Vigneaux"
 
 enableRobotsTXT = true
 languageCode = "en-us"
