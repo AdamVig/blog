@@ -1,6 +1,7 @@
 baseURL = "https://blog.adamvig.com"
 title = "Blog — Adam Vigneaux"
 
+disableKinds = ["section", "taxonomy", "term"]
 enableRobotsTXT = true
 languageCode = "en-us"
 paginate = 25
