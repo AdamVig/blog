@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+hugo --cleanDestinationDir --minify
+
+# Workaround for https://github.com/gohugoio/hugo/issues/6161
+touch public public/
