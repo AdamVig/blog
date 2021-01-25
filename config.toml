@@ -1,6 +1,9 @@
 baseURL = "https://blog.adamvig.com"
 title = "Blog — Adam Vigneaux"
 
+[params]
+	description = "The blog of Adam Vigneaux, a software developer located in Texas."
+
 disableKinds = ["section", "taxonomy", "term"]
 enableRobotsTXT = true
 languageCode = "en-us"
