@@ -25,6 +25,16 @@
 	{{ template "_internal/opengraph.html" . }}
 	{{ template "_internal/twitter_cards.html" . }}
 
+	<style>
+		body {
+			line-height: 1.5;
+		}
+		main {
+			max-width: 70ch;
+			padding: 2ch;
+			margin: auto;
+		}
+	</style>
 </head>
 <body>
 	{{ block "main" . }}
