@@ -3,7 +3,7 @@ date = "2015-09-02"
 title = "The Cell Phone Upgrade Strategy"
 +++
 
-![People Who Buy Things Are Suckers](/img/post/peoplewhobuythings.gif)
+![People Who Buy Things Are Suckers](peoplewhobuythings.gif)
 
 **Never buy a cell phone new at full price.**
 
@@ -24,16 +24,16 @@ cost.**
 Check the market price of your current phone before you purchase a new phone to
 set a price range for your purchase.
 
-**Where to buy and sell phones:**  
+**Where to buy and sell phones:**
 All three of these sites have buyer protection, so if your phone is defective
 you can send it back for a full refund.
 
-[Glyde](http://glyde.com)  
-  - Easiest for selling: they ship you a box to put the phone in  
-  - Highest fees for selling  
-  - Useful indicator of market price  
-[Swappa](http://swappa.com)  
-  - Low selling fees  
-  - Buyer talks directly to seller, not through Swappa  
-[Ebay](http://ebay.com)  
-  - Highest level of risk, but often the best offers  
+[Glyde](http://glyde.com)
+  - Easiest for selling: they ship you a box to put the phone in
+  - Highest fees for selling
+  - Useful indicator of market price
+[Swappa](http://swappa.com)
+  - Low selling fees
+  - Buyer talks directly to seller, not through Swappa
+[Ebay](http://ebay.com)
+  - Highest level of risk, but often the best offers
