@@ -32,9 +32,15 @@
 &lt;ul>
 &lt;li>&lt;strong>Creative&lt;/strong>, which contains the LUTs that appear in the &amp;ldquo;Looks&amp;rdquo; dropdown&lt;/li>
 &lt;li>&lt;strong>Legacy&lt;/strong>, which also contains LUTs that show up in that dropdown
-&lt;img src="lumetri-looks.png" alt="Looks">&lt;/li>
+&lt;a href="lumetri-looks.png">
+&lt;img src="lumetri-looks.png" alt="Looks" />
+&lt;/a>
+&lt;/li>
 &lt;li>&lt;strong>Technical&lt;/strong>, which contains the LUTs that appear in the &amp;ldquo;Input LUT&amp;rdquo; dropdown in the &amp;ldquo;Basic Correction&amp;rdquo; section of Lumetri Color
-&lt;img src="lumetri-input-luts.png" alt="Input LUTs">&lt;/li>
+&lt;a href="lumetri-input-luts.png">
+&lt;img src="lumetri-input-luts.png" alt="Input LUTs" />
+&lt;/a>
+&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -143,10 +149,14 @@ If you are not an administrator on your computer, a popup will appear asking you
 &lt;p>A stage diagram must at least contain the placement of all musicians and instruments. It can be made more helpful by adding placement of microphones, direct boxes, and guitar stands; but most of that information can be extrapolated from the arrangement of the band.&lt;/p>
 &lt;p>Create a more complex stage diagram for situations where the tech should not have any creative input. Create a barebones stage diagram for situations where the tech is experienced and should provide creative input.&lt;/p>
 &lt;p>This is a complex example of a stage diagram:&lt;/p>
-&lt;p>&lt;img src="example-complex-stage-diagram.png" alt="Example Complex Stage Diagram">&lt;/p>
+&lt;a href="example-complex-stage-diagram.png">
+&lt;img src="example-complex-stage-diagram.png" alt="Example Complex Stage Diagram" />
+&lt;/a>
 &lt;p>The above example includes detailed placement information for everything including Aviom personal mixers. This type of stage diagram is useful when the band works closely with the technical team; it can help turn setup into a simple mechanical process by getting all of the decision-making out of the way in advance.&lt;/p>
 &lt;p>This is a simpler example of a stage diagram:&lt;/p>
-&lt;p>&lt;img src="example-simple-stage-diagram.png" alt="Example Simple Stage Diagram">&lt;/p>
+&lt;a href="example-simple-stage-diagram.png">
+&lt;img src="example-simple-stage-diagram.png" alt="Example Simple Stage Diagram" />
+&lt;/a>
 &lt;p>When creating a stage diagram, it is helpful to keep the following guidelines in mind:&lt;/p>
 &lt;ul>
 &lt;li>arrange vocalists in order from left to right&lt;/li>
@@ -322,7 +332,10 @@ people expect different types of content on each social network.&lt;/p>
 &lt;li>high-frequency posts&lt;/li>
 &lt;li>brief text content&lt;/li>
 &lt;li>multimedia posts get the same screen space as text-only posts&lt;/li>
-&lt;/ul></description></item><item><title>The Cell Phone Upgrade Strategy</title><link>https://blog.adamvig.com/cellphoneupgrade/</link><pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate><guid>https://blog.adamvig.com/cellphoneupgrade/</guid><description>&lt;p>&lt;img src="peoplewhobuythings.gif" alt="People Who Buy Things Are Suckers">&lt;/p>
+&lt;/ul></description></item><item><title>The Cell Phone Upgrade Strategy</title><link>https://blog.adamvig.com/cellphoneupgrade/</link><pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate><guid>https://blog.adamvig.com/cellphoneupgrade/</guid><description>
+&lt;a href="peoplewhobuythings.gif">
+&lt;img src="peoplewhobuythings.gif" alt="People Who Buy Things Are Suckers" />
+&lt;/a>
 &lt;p>&lt;strong>Never buy a cell phone new at full price.&lt;/strong>&lt;/p>
 &lt;p>Cell carriers are no longer offering subsidies on new phones. $700 is too much
 to spend for that new iPhone. The solution: buy used.&lt;/p>

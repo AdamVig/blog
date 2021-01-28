@@ -36,13 +36,13 @@ Create a more complex stage diagram for situations where the tech should not hav
 
 This is a complex example of a stage diagram:
 
-![Example Complex Stage Diagram](example-complex-stage-diagram.png)
+{{<img src="example-complex-stage-diagram.png" alt="Example Complex Stage Diagram">}}
 
 The above example includes detailed placement information for everything including Aviom personal mixers. This type of stage diagram is useful when the band works closely with the technical team; it can help turn setup into a simple mechanical process by getting all of the decision-making out of the way in advance.
 
 This is a simpler example of a stage diagram:
 
-![Example Simple Stage Diagram](example-simple-stage-diagram.png)
+{{<img src="example-simple-stage-diagram.png" alt="Example Simple Stage Diagram">}}
 
 When creating a stage diagram, it is helpful to keep the following guidelines in mind:
 - arrange vocalists in order from left to right

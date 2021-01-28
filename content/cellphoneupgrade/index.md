@@ -3,7 +3,7 @@ date = "2015-09-02"
 title = "The Cell Phone Upgrade Strategy"
 +++
 
-![People Who Buy Things Are Suckers](peoplewhobuythings.gif)
+{{<img src="peoplewhobuythings.gif" alt="People Who Buy Things Are Suckers">}}
 
 **Never buy a cell phone new at full price.**
 

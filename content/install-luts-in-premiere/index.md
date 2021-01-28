@@ -16,9 +16,9 @@ As it stands now with Premiere Pro CC 2017, the process to install LUTs on a Mac
     In this folder, you will see three folders:
     - **Creative**, which contains the LUTs that appear in the "Looks" dropdown
     - **Legacy**, which also contains LUTs that show up in that dropdown
-      ![Looks](lumetri-looks.png)
+      {{<img src="lumetri-looks.png" alt="Looks">}}
     - **Technical**, which contains the LUTs that appear in the "Input LUT" dropdown in the "Basic Correction" section of Lumetri Color
-      ![Input LUTs](lumetri-input-luts.png)
+      {{<img src="lumetri-input-luts.png" alt="Input LUTs">}}
 
 
 4. Open the `Creative` folder and paste your `.cube` file or files into it. Open or restart Premiere and the LUTs should now be permanently available in the "Looks" dropdown.
