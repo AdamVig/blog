@@ -3,6 +3,7 @@ disableKinds = ["section", "taxonomy", "term"]
 enableRobotsTXT = true
 languageCode = "en-us"
 paginate = 25
+cleanDestinationDir = true
 
 title = "Blog — Adam Vigneaux"
 
