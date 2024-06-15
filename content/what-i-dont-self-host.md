@@ -1,6 +1,7 @@
 +++
 date = "2024-06-14"
 title = "What I Don't Self-Host"
+description = "Services that I choose to avoid self-hosting."
 +++
 As a follow-up to [What I Self-Host]({{< relref "what-i-self-host" >}}), here are a few things I intentionally do not self-host.
 

@@ -1,6 +1,7 @@
 +++
 date = "2024-06-10"
 title = "What I Self-Host"
+description = "Services that I host on my home server."
 +++
 I [self-host](https://en.wikipedia.org/wiki/Self-hosting_(web_services)) several applications and websites on my home server:
 - [Home Assistant](https://www.home-assistant.io/) for home automation
